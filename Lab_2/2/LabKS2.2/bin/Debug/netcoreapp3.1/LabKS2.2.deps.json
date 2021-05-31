@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LabKS2.2/1.0.0": {
+        "runtime": {
+          "LabKS2.2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LabKS2.2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
