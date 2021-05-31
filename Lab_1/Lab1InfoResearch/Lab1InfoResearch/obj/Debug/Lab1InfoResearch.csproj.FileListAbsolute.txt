@@ -1,0 +1,24 @@
+D:\Student\Study\3 course\II semester\Computer systems\Laboratory work 1\Lab1InfoResearch\Lab1InfoResearch\obj\Debug\Lab1InfoResearch.csproj.CoreCompileInputs.cache
+D:\Student\Study\3 course\II semester\Computer systems\Laboratory work 1\Lab1InfoResearch\Lab1InfoResearch\bin\Debug\Lab1InfoResearch.exe
+D:\Student\Study\3 course\II semester\Computer systems\Laboratory work 1\Lab1InfoResearch\Lab1InfoResearch\bin\Debug\Lab1InfoResearch.pdb
+D:\Student\Study\3 course\II semester\Computer systems\Laboratory work 1\Lab1InfoResearch\Lab1InfoResearch\obj\Debug\Lab1InfoResearch.exe
+D:\Student\Study\3 course\II semester\Computer systems\Laboratory work 1\Lab1InfoResearch\Lab1InfoResearch\obj\Debug\Lab1InfoResearch.pdb
+D:\Student\Study\3 course\II semester\Computer systems\Laboratory work 1\Lab1InfoResearch\Lab1InfoResearch\obj\Debug\Lab1InfoResearch.csprojAssemblyReference.cache
+D:\Education\Computer systems\Laboratory work 1\Lab1InfoResearch\Lab1InfoResearch\bin\Debug\Lab1InfoResearch.exe
+D:\Education\Computer systems\Laboratory work 1\Lab1InfoResearch\Lab1InfoResearch\bin\Debug\Lab1InfoResearch.pdb
+D:\Education\Computer systems\Laboratory work 1\Lab1InfoResearch\Lab1InfoResearch\obj\Debug\Lab1InfoResearch.csprojAssemblyReference.cache
+D:\Education\Computer systems\Laboratory work 1\Lab1InfoResearch\Lab1InfoResearch\obj\Debug\Lab1InfoResearch.csproj.CoreCompileInputs.cache
+D:\Education\Computer systems\Laboratory work 1\Lab1InfoResearch\Lab1InfoResearch\obj\Debug\Lab1InfoResearch.exe
+D:\Education\Computer systems\Laboratory work 1\Lab1InfoResearch\Lab1InfoResearch\obj\Debug\Lab1InfoResearch.pdb
+C:\Users\vsevo\Downloads\Computer systems\Laboratory work 1\Lab1InfoResearch\Lab1InfoResearch\bin\Debug\Lab1InfoResearch.exe
+C:\Users\vsevo\Downloads\Computer systems\Laboratory work 1\Lab1InfoResearch\Lab1InfoResearch\bin\Debug\Lab1InfoResearch.pdb
+C:\Users\vsevo\Downloads\Computer systems\Laboratory work 1\Lab1InfoResearch\Lab1InfoResearch\obj\Debug\Lab1InfoResearch.csproj.AssemblyReference.cache
+C:\Users\vsevo\Downloads\Computer systems\Laboratory work 1\Lab1InfoResearch\Lab1InfoResearch\obj\Debug\Lab1InfoResearch.csproj.CoreCompileInputs.cache
+C:\Users\vsevo\Downloads\Computer systems\Laboratory work 1\Lab1InfoResearch\Lab1InfoResearch\obj\Debug\Lab1InfoResearch.exe
+C:\Users\vsevo\Downloads\Computer systems\Laboratory work 1\Lab1InfoResearch\Lab1InfoResearch\obj\Debug\Lab1InfoResearch.pdb
+C:\Users\vsevo\Desktop\University\CS\Lab_1\Lab1InfoResearch\Lab1InfoResearch\bin\Debug\Lab1InfoResearch.exe
+C:\Users\vsevo\Desktop\University\CS\Lab_1\Lab1InfoResearch\Lab1InfoResearch\bin\Debug\Lab1InfoResearch.pdb
+C:\Users\vsevo\Desktop\University\CS\Lab_1\Lab1InfoResearch\Lab1InfoResearch\obj\Debug\Lab1InfoResearch.csproj.AssemblyReference.cache
+C:\Users\vsevo\Desktop\University\CS\Lab_1\Lab1InfoResearch\Lab1InfoResearch\obj\Debug\Lab1InfoResearch.csproj.CoreCompileInputs.cache
+C:\Users\vsevo\Desktop\University\CS\Lab_1\Lab1InfoResearch\Lab1InfoResearch\obj\Debug\Lab1InfoResearch.exe
+C:\Users\vsevo\Desktop\University\CS\Lab_1\Lab1InfoResearch\Lab1InfoResearch\obj\Debug\Lab1InfoResearch.pdb

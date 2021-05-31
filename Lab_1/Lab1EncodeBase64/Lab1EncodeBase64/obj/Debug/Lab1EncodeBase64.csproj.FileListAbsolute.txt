@@ -1,0 +1,30 @@
+C:\Users\Petr\source\repos\Lab1EncodeBase64\Lab1EncodeBase64\bin\Debug\Lab1EncodeBase64.exe
+C:\Users\Petr\source\repos\Lab1EncodeBase64\Lab1EncodeBase64\bin\Debug\Lab1EncodeBase64.pdb
+C:\Users\Petr\source\repos\Lab1EncodeBase64\Lab1EncodeBase64\obj\Debug\Lab1EncodeBase64.csprojAssemblyReference.cache
+C:\Users\Petr\source\repos\Lab1EncodeBase64\Lab1EncodeBase64\obj\Debug\Lab1EncodeBase64.csproj.CoreCompileInputs.cache
+C:\Users\Petr\source\repos\Lab1EncodeBase64\Lab1EncodeBase64\obj\Debug\Lab1EncodeBase64.exe
+C:\Users\Petr\source\repos\Lab1EncodeBase64\Lab1EncodeBase64\obj\Debug\Lab1EncodeBase64.pdb
+D:\Student\Study\3 course\II semester\Computer systems\Laboratory work 1\Lab1EncodeBase64\Lab1EncodeBase64\bin\Debug\Lab1EncodeBase64.exe
+D:\Student\Study\3 course\II semester\Computer systems\Laboratory work 1\Lab1EncodeBase64\Lab1EncodeBase64\bin\Debug\Lab1EncodeBase64.pdb
+D:\Student\Study\3 course\II semester\Computer systems\Laboratory work 1\Lab1EncodeBase64\Lab1EncodeBase64\obj\Debug\Lab1EncodeBase64.csprojAssemblyReference.cache
+D:\Student\Study\3 course\II semester\Computer systems\Laboratory work 1\Lab1EncodeBase64\Lab1EncodeBase64\obj\Debug\Lab1EncodeBase64.csproj.CoreCompileInputs.cache
+D:\Student\Study\3 course\II semester\Computer systems\Laboratory work 1\Lab1EncodeBase64\Lab1EncodeBase64\obj\Debug\Lab1EncodeBase64.exe
+D:\Student\Study\3 course\II semester\Computer systems\Laboratory work 1\Lab1EncodeBase64\Lab1EncodeBase64\obj\Debug\Lab1EncodeBase64.pdb
+D:\Education\Computer systems\Laboratory work 1\Lab1EncodeBase64\Lab1EncodeBase64\bin\Debug\Lab1EncodeBase64.exe
+D:\Education\Computer systems\Laboratory work 1\Lab1EncodeBase64\Lab1EncodeBase64\bin\Debug\Lab1EncodeBase64.pdb
+D:\Education\Computer systems\Laboratory work 1\Lab1EncodeBase64\Lab1EncodeBase64\obj\Debug\Lab1EncodeBase64.csprojAssemblyReference.cache
+D:\Education\Computer systems\Laboratory work 1\Lab1EncodeBase64\Lab1EncodeBase64\obj\Debug\Lab1EncodeBase64.csproj.CoreCompileInputs.cache
+D:\Education\Computer systems\Laboratory work 1\Lab1EncodeBase64\Lab1EncodeBase64\obj\Debug\Lab1EncodeBase64.exe
+D:\Education\Computer systems\Laboratory work 1\Lab1EncodeBase64\Lab1EncodeBase64\obj\Debug\Lab1EncodeBase64.pdb
+C:\Users\vsevo\Downloads\Computer systems\Laboratory work 1\Lab1EncodeBase64\Lab1EncodeBase64\bin\Debug\Lab1EncodeBase64.exe
+C:\Users\vsevo\Downloads\Computer systems\Laboratory work 1\Lab1EncodeBase64\Lab1EncodeBase64\bin\Debug\Lab1EncodeBase64.pdb
+C:\Users\vsevo\Downloads\Computer systems\Laboratory work 1\Lab1EncodeBase64\Lab1EncodeBase64\obj\Debug\Lab1EncodeBase64.csproj.AssemblyReference.cache
+C:\Users\vsevo\Downloads\Computer systems\Laboratory work 1\Lab1EncodeBase64\Lab1EncodeBase64\obj\Debug\Lab1EncodeBase64.csproj.CoreCompileInputs.cache
+C:\Users\vsevo\Downloads\Computer systems\Laboratory work 1\Lab1EncodeBase64\Lab1EncodeBase64\obj\Debug\Lab1EncodeBase64.exe
+C:\Users\vsevo\Downloads\Computer systems\Laboratory work 1\Lab1EncodeBase64\Lab1EncodeBase64\obj\Debug\Lab1EncodeBase64.pdb
+C:\Users\vsevo\Desktop\University\CS\Lab_1\Lab1EncodeBase64\Lab1EncodeBase64\bin\Debug\Lab1EncodeBase64.exe
+C:\Users\vsevo\Desktop\University\CS\Lab_1\Lab1EncodeBase64\Lab1EncodeBase64\bin\Debug\Lab1EncodeBase64.pdb
+C:\Users\vsevo\Desktop\University\CS\Lab_1\Lab1EncodeBase64\Lab1EncodeBase64\obj\Debug\Lab1EncodeBase64.csproj.AssemblyReference.cache
+C:\Users\vsevo\Desktop\University\CS\Lab_1\Lab1EncodeBase64\Lab1EncodeBase64\obj\Debug\Lab1EncodeBase64.csproj.CoreCompileInputs.cache
+C:\Users\vsevo\Desktop\University\CS\Lab_1\Lab1EncodeBase64\Lab1EncodeBase64\obj\Debug\Lab1EncodeBase64.exe
+C:\Users\vsevo\Desktop\University\CS\Lab_1\Lab1EncodeBase64\Lab1EncodeBase64\obj\Debug\Lab1EncodeBase64.pdb
